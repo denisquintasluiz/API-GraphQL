@@ -1,0 +1,12 @@
+{
+    "scripts": {
+        "start": "nodemon ./server.js",
+        "dev": "nodemon ./client.js"
+    },
+    "dependencies": {
+        "apollo-server": "^3.10.2",
+        "axios": "^0.27.2",
+        "graphql": "^16.6.0",
+        "nodemon": "^2.0.20"
+    }
+}
